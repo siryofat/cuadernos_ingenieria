@@ -12,6 +12,8 @@ pandas = "^2.2.2"
 numpy = "<2.0.0"
 anastruct = {extras = ["plot"], version = "^1.5.1"}
 handcalcs = "^1.9.0"
+nbconvert = {extras = ["webpdf"], version = "^7.16.4"}
+pypandoc = "^1.13"
 
 
 [build-system]
