@@ -1,5 +1,5 @@
 # Notebook pdf exports
-./src/notebooks/*.pdf
+src/notebooks/*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
